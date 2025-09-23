@@ -6,5 +6,5 @@ This repository contains my **IBM Cloud Chatbot certificate** and some screensho
 ![Certificate](ibm-cloud-chatbot-certification.pdf)
 
 ## 💻 Execution Screenshots
-![Execution Screenshot 1](execution_screenshots.pdf)  
+![Execution Screenshot](execution_screenshots.pdf)  
 
